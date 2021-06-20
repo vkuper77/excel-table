@@ -1,0 +1,31 @@
+{
+  "name": "excel-cource",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkuper77/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Vitali Kupratsevich <vkuper7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkuper77/excel-course/issues"
+  },
+  "homepage": "https://github.com/vkuper77/excel-course#readme",
+  "private": "true",
+  "devDependencies": {
+    "webpack": "^5.39.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
