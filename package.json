@@ -45,6 +45,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "clean-webpack-plugin": "^4.0.0-alpha.0"
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "normalize.css": "^8.0.1"
   }
 }
