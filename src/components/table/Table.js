@@ -14,18 +14,4 @@ export class Table extends ExcelComponent {
     return createTable()
   }
 
-  onClick(event) {
-    console.log('click', event.target)
-  }
-  onMousedown() {
-    console.log('mousedown')
-  }
-
-  onMousemove() {
-    console.log('mousemove')
-  }
-
-  onMouseup() {
-    console.log('mouseup')
-  }
 }
